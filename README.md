@@ -14,4 +14,4 @@ Course homepage:
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
 
-Bonjour je viens de débarquer...
+Bonjour je viens de débarquer..
